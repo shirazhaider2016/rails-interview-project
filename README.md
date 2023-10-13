@@ -1,4 +1,4 @@
-# Kaleo Rails Engineer Candidate Interview Project
+# Rails Engineer Candidate Interview Project
 
 Thanks for taking the time to complete this exercise. We're excited that you're considering joining our amazing team.
 
@@ -44,4 +44,4 @@ You should see this same information.
 
 ## Submitting your project
 
-Send us a zip file of the whole project for us to evaluate it.  If you need to add any additional instructions to the README please put them at the very top of that file and mention.  Expect to discuss your design decisions during the interview.
+Send us a zip file of the whole project for us (to HR) to evaluate it.  If you need to add any additional instructions to the README please put them at the very top of that file and mention.  Expect to discuss your design decisions during the interview.
